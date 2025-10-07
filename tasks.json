@@ -1,0 +1,11 @@
+// .vscode/tasks.json
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Open Git Checklist",
+      "type": "shell",
+      "command": "code git-checklist.md"
+    }
+  ]
+}
